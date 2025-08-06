@@ -3,6 +3,9 @@
 venv/
 env/
 
+# Temporary uploads
+temp_uploads/
+
 # Python Cache
 __pycache__/
 *.pyc
